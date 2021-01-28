@@ -1,7 +1,7 @@
 {
 "update_type": "gp",  
-"update_build": "1",  
-"update_link": "https://dl.dropboxusercontent.com/s/deu8awun371pusl/oneplayer_v1.1.5r.apk",  
+"update_build": "7",  
+"update_link": "https://github.com/aquafina-pixel/lithium/releases/download/1.0.6r/1.0.6r.apk",  
 "update_content": "Please update One Player for better experience",  
 "update_title":"Update new version",  
 "update_force": false,
